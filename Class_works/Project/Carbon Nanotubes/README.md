@@ -1,11 +1,8 @@
 ### TASK
 
 #### 1. Visit link https://archive.ics.uci.edu/ml/datasets/Carbon+Nanotubes
-
 #### 2. Download the dataset
-
 #### 3. Insert data from dataset to mongodb (bulk insertion)
-
 #### 4. Different operations
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **4a. Insertion**
@@ -17,9 +14,7 @@
 ### Code Evaluation
 
 #### 1. Modular coding
-
 #### 2. Exception Handling
-
 #### 3. Proper log
 
 ### Project Summary
