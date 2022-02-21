@@ -8,11 +8,11 @@
 
 #### 4. Different operations
 
-&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp##### 4a. Insertion
-&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp##### 4b. Update
-&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp##### 4c. Find Operation
-&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp##### 4d. Filter Operation
-&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp##### 4e. Deletion
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **4a. Insertion**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **4b. Update**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **4c. Find Operation**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **4d. Filter Operation**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **4e. Deletion**
 
 ### Code Evaluation
 
