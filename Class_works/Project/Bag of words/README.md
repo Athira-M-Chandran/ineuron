@@ -70,4 +70,6 @@ Contains 4 files:
 
 ##### Log file
 
+A part of logging file is shown below:
+
 ![log](https://user-images.githubusercontent.com/86779388/155570452-190afdb1-a042-4e9b-ae92-34a5c5ce7c16.jpg)
