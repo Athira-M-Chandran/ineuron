@@ -49,11 +49,13 @@ Contains 4 files:
 &nbsp;&nbsp;&nbsp; q2. Try to get a count of all the words starting with same alphabets.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; For creating alphabet list used **string module**
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; and for returning values same as above **zip()** and **yield** is used
 
 &nbsp;&nbsp;&nbsp; q3 Try to filter out all the words from dataset
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; For checking each character used **isalpha()** from **string module**
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Return as string and first 300characters is returned using **slicing**
 
 3. **sqlite.py** :
@@ -61,11 +63,14 @@ Contains 4 files:
 
 &nbsp;&nbsp;&nbsp; Task 4 is performed under this file since it contains database connection
 
-&nbsp;&nbsp;&nbsp;q4 - Create a tuple set of all the recored available in all 5 file and then store it in sqlite DB
+&nbsp;&nbsp;&nbsp; q4 - Create a tuple set of all the recored available in all 5 file and then store it in sqlite DB
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **connecting sqlite3** and **create database**
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **create table** with **column names** passed from **main.py**
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Insert values** by Creating a tuple set of all the recored available in all 5 file from downloaded file which mentioned above
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Display** the same
 
 4. **main.py** :
