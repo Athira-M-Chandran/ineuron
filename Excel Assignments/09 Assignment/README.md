@@ -7,7 +7,7 @@
 
 2. radiation amount
 
-**=SUM(A:A)
+**=SUM(A:A)**
 
 3. Find the count and Rank
 
